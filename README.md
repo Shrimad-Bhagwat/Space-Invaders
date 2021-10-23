@@ -1,4 +1,4 @@
-# This Project is made by Shrimad Bhagwat
+# This Project is made by `Shrimad Bhagwat`
 # Visit [Shrimad's Github](https://github.com/Shrimad-Bhagwat)
 
 
